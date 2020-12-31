@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/workspace/describe_keypoints/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv4  -g   -std=c++11 -o CMakeFiles/describe_keypoints.dir/src/describe_keypoints.cpp.o -c /home/workspace/describe_keypoints/src/describe_keypoints.cpp",
+  "file": "/home/workspace/describe_keypoints/src/describe_keypoints.cpp"
+}
+]
